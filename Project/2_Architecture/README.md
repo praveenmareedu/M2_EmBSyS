@@ -32,3 +32,7 @@
   * ![LLFBEHAV](https://user-images.githubusercontent.com/98843450/156885771-7e293468-be59-40af-a30a-50769d2345e0.png)
    * ##  Structural Diagrams
    * ### 2c. High Level UML Use Case Structural Diagram
+   * ![HLSTRUCT](https://user-images.githubusercontent.com/98843450/156886232-41e7aae4-8be3-4031-aa30-98133231b52d.png)
+   * ### 2d. Low Level UML Use Case Structural Diagram
+   * 
+
