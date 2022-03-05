@@ -6,7 +6,13 @@
 
 ![SimulIDE-0 4 15-SR9  -  _backup simu_ 05-03-2022 22_41_41](https://user-images.githubusercontent.com/98843450/156894007-654d340a-6442-4c5f-83dd-7ec7e9e5611d.png)
 
-# Suppose Setpoint is greater than Current temperature of POT/Sensor then relay allows circuit to flow and LED set to green
+# Suppose Setpoint is greater than Current temperature of POT/Sensor then relay allows circuit to flow and LED set to green which shown below
+
+![SimulIDE-0 4 15-SR9  -  _backup simu_ 05-03-2022 22_35_54](https://user-images.githubusercontent.com/98843450/156894198-8e017274-e129-40f4-a6cc-c921f602b3c9.png)
+
+# Now the case is exactly opposite to previous one where Current Temp. is greater than Set point that make relay cuts and make LED red
+
+
 
 
 
