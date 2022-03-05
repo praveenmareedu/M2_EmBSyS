@@ -12,6 +12,9 @@
 
 # Now the case is exactly opposite to previous one where Current Temp. is greater than Set point that make relay cuts and make LED red
 
+![SimulIDE-0 4 15-SR9  -  _backup simu_ 05-03-2022 22_37_36](https://user-images.githubusercontent.com/98843450/156894370-53f78de5-ebff-46bf-b83f-f417b4cd6d62.png)
+
+
 
 
 
