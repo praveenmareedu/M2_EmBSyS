@@ -29,3 +29,6 @@
   * ### 2a. High Level Flow chart Behavioural Diagram
   ![HLFBEHAV](https://user-images.githubusercontent.com/98843450/156885661-34c97e68-c62a-45d7-9318-14e720ab6935.png)
   * ### 2b. Low Level Flow chart Behavioural Diagram
+  * ![LLFBEHAV](https://user-images.githubusercontent.com/98843450/156885771-7e293468-be59-40af-a30a-50769d2345e0.png)
+   * ##  Structural Diagrams
+   * ### 2c. High Level UML Use Case Structural Diagram
