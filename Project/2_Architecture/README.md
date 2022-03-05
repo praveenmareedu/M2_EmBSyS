@@ -26,4 +26,6 @@
  
 # 2. Architecture
 * ## Behavioural Diagrams
-  * ### 2a High Level Flow chart Behavioural Diagram
+  * ### 2a. High Level Flow chart Behavioural Diagram
+  ![HLFBEHAV](https://user-images.githubusercontent.com/98843450/156885661-34c97e68-c62a-45d7-9318-14e720ab6935.png)
+  * ### 2b. Low Level Flow chart Behavioural Diagram
