@@ -24,3 +24,6 @@
     * In general we used here ATMEGA 328 its is just as brain to entire circuit
     * This is the main component which controls all the above mentioned part or thins of our embedded system.This interfaces Pushbuttons and LCD and controls the heater.
  
+# 2. Architecture
+* ## Behavioural Diagrams
+  * ### 2a High Level Flow chart Behavioural Diagram
