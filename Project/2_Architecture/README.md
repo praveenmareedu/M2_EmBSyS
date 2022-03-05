@@ -34,5 +34,15 @@
    * ### 2c. High Level UML Use Case Structural Diagram
    * ![HLSTRUCT](https://user-images.githubusercontent.com/98843450/156886232-41e7aae4-8be3-4031-aa30-98133231b52d.png)
    * ### 2d. Low Level UML Use Case Structural Diagram
-   * 
+   * ![LLSTRUCT](https://user-images.githubusercontent.com/98843450/156886328-2379bd83-01ce-46c4-854c-3ea10f0277d5.png)
+
+ ---
+ 
+ # Best Methods to be Followed
+* Exact Mapping of code to avoid confusions
+* Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+* Followed the exact symbols to make the understanding easier
+* Detailed explanation in Low level Behavioural and Structural Diagrams
+
+
 
