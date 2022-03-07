@@ -1,10 +1,10 @@
 # 1.1 HIGH LEVEL TEST PLAN
-* Setpoint (25°C)
+* User Push Button Setpoint (25°C)
 
 | Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
 | --- | --- | --- | --- | --- | --- |
-| 01 | POT/Sensor | Push button to (25°C) | LED green heater ON | LED green heater ON | ✅ |
-| 02 | POT/Sensor | Push button to (35°C) | LED red heater OFF | LED red heater OFF | ✅ |
+| 01 | POT/Sensor | Let sensor reads 20°C | LED green heater ON | LED green heater ON | ✅ |
+| 02 | POT/Sensor | Let sensor reads 30°C | LED red heater OFF | LED red heater OFF | ✅ |
 
 
 ### Here below are the some of the *unity test/ unity framework* test plans there are so many but I have only mentiones some of the test cases here.
