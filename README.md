@@ -1,3 +1,6 @@
+## [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21498be233ac4bb2b336b3098db0d2be)](https://www.codacy.com/gh/praveenmareedu/M2_EmBSyS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=praveenmareedu/M2_EmBSyS&amp;utm_campaign=Badge_Grade)
+
+
 # M2_EmBSyS
 ## Digital Temperature Controller
 
